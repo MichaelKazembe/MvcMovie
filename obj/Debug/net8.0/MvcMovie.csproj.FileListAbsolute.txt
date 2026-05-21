@@ -28,3 +28,4 @@
 /Users/Michael/Documents/GitHub/CSE325/MvcMovie/obj/Debug/net8.0/MvcMovie.pdb
 /Users/Michael/Documents/GitHub/CSE325/MvcMovie/obj/Debug/net8.0/MvcMovie.genruntimeconfig.cache
 /Users/Michael/Documents/GitHub/CSE325/MvcMovie/obj/Debug/net8.0/ref/MvcMovie.dll
+/Users/Michael/Documents/GitHub/CSE325/MvcMovie/obj/Debug/net8.0/MvcMovie.sourcelink.json
