@@ -7,9 +7,9 @@ public class HelloWorldController : Controller
 {
     // 
     // GET: /HelloWorld/
-    public string Index()
+    public IActionResult Index() // Calls the Index.cshtml view in Views/HelloWorld folder
     {
-        return "This is my default action...";
+        return View();
     }
     // 
     // GET: /HelloWorld/Welcome/ 
